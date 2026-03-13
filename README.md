@@ -12,7 +12,7 @@
 
 <br/>
 
-### 🚀 by [Aditya](https://github.com/Aditya152602) — Developer · ML Engineer · Problem Solver
+### 🚀 by [Aditya](https://github.com/Aditya152602) — Developer ·  Problem Solver
 
 <br/>
 
