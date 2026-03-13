@@ -1,309 +1,399 @@
+
 <div align="center">
 
-```
- ░▒▓███████▓▒░░▒▓███████▓▒░   ░▒▓██████▓▒░      ░▒▓█▓▒░ ░▒▓████████▓▒░ ░▒▓██████▓▓▒░ ░▒▓████████▓▒░ ░▒▓███████▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░     ░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░   ░▒▓█▓▒░    ░▒▓█▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░     ░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░           ░▒▓█▓▒░    ░▒▓█▓▒░
- ░▒▓██████▓▒░░▒▓███████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░     ░▒▓█▓▒░ ░▒▓██████▓▒░   ░▒▓█▓▒░           ░▒▓█▓▒░     ░▒▓██████▓▒░
-       ░▒▓█▓▒░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░     ░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░           ░▒▓█▓▒░           ░▒▓█▓▒░
-       ░▒▓█▓▒░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░     ░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░   ░▒▓█▓▒░           ░▒▓█▓▒░
-░▒▓███████▓▒░░▒▓█▓▒░         ░▒▓██████▓▒░      ░▒▓█▓▒░ ░▒▓████████▓▒░  ░▒▓██████▓▓▒░   ░▒▓█▓▒░    ░▒▓███████▓▒░
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20%7C%20Projects&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<br/>
+</div>
 
-### 🚀 by [Aditya](https://github.com/Aditya152602) — Developer ·  Problem Solver
+<div align="center">
 
-<br/>
+<a href="https://github.com/Aditya152602">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Project+Universe+%F0%9F%9A%80;Full-Stack+Python+%2B+Java+Developer;Machine+Learning+%7C+Data+Science+%7C+Web+Dev;Building+things+that+matter+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya152602-181717?style=for-the-badge&logo=github)](https://github.com/Aditya152602)
-[![Repos](https://img.shields.io/badge/Total_Projects-10+-6366f1?style=for-the-badge&logo=folder&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Aditya152602/Core-Python-)
-[![Java](https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Aditya152602/JAVA)
-[![ML](https://img.shields.io/badge/Machine_Learning-Active-22c55e?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Aditya152602/Advanced-House-Price-Prediction)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Aditya152602/Portfolio)
+<br/><br/>
 
-<br/>
-
-*One repository to rule them all — a curated index of every project, concept, and creation.*
+[![GitHub followers](https://img.shields.io/github/followers/Aditya152602?label=Follow&style=social)](https://github.com/Aditya152602)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Aditya152602&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/Aditya152602)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/Aditya152602?affiliations=OWNER&style=social&label=Total%20Stars)](https://github.com/Aditya152602)
 
 </div>
 
 ---
 
-## 👋 Welcome to My Projects Hub
-
-> *"Every great developer you know got there by solving problems they were unqualified to solve until they did it."* — Patrick McKenzie
-
-This repository is the **master directory** of my entire GitHub universe. Every project I've built, every concept I've learned, and every problem I've solved — organized, documented, and ready to explore.
-
-Whether you're a **recruiter** scanning my work, a **collaborator** looking to connect, or a **fellow learner** seeking inspiration — start here. 🎯
-
----
-
-## 🗂️ Project Index
-
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                      A D I T Y A ' S   U N I V E R S E                  │
-│                                                                         │
-│    🐍 Python  ──────────┐                                               │
-│    ☕ Java    ──────────┼──▶   [ PROJECTS HUB ]  ──▶  🌐 Portfolio      │
-│    🤖 ML/AI   ──────────┘                                               │
-│    🌐 Web Dev ──────────┘                                               │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+## 〔 WHO AM I 〕
 
 </div>
-
----
-
-## 🏆 Featured Projects
-
-<br/>
-
-### 🤖 Machine Learning & Data Science
-
----
-
-#### 🏡 [Advanced House Price Prediction](https://github.com/Aditya152602/Advanced-House-Price-Prediction)
-
-> *End-to-end ML pipeline predicting residential house prices using the Ames Housing Dataset*
-
-```
-Tech Stack  →  Python · Scikit-Learn · XGBoost · Pandas · NumPy · Matplotlib
-Dataset     →  Ames Housing (Kaggle) · 79 Features · 1460 Samples
-Best Model  →  Stacked Ensemble (XGBoost + Ridge + Lasso + GBR + RF)
-Metric      →  RMSLE ~0.118 (Stacked) vs ~0.185 (Baseline)
-```
-
-| What's Special | Detail |
-|---------------|--------|
-| 📊 Deep EDA | Distribution analysis, correlation heatmaps, outlier detection |
-| 🔧 Feature Engineering | Log-transform, rare label encoding, temporal features, TotalSF |
-| 🤖 8 Models Trained | Linear → Ridge → Lasso → RF → XGBoost → Stacked Ensemble |
-| 🏆 Stacking Strategy | 5 base learners + LassoCV meta-learner |
-
-[![View Project](https://img.shields.io/badge/📂_View_Project-Advanced_House_Price-blue?style=flat-square)](https://github.com/Aditya152602/Advanced-House-Price-Prediction)
-
----
-
-<br/>
-
-### 🐍 Python
-
----
-
-#### 🔬 [Core Python Mastery](https://github.com/Aditya152602/Core-Python-)
-
-> *A comprehensive collection of Python fundamentals — from variables to advanced OOP, file handling, and more*
-
-```
-Tech Stack  →  Python 3.x (Pure — no external dependencies)
-Coverage    →  80+ Concepts across 8 modules
-Level       →  Beginner → Intermediate → Advanced
-```
-
-| Module | Topics Covered |
-|--------|---------------|
-| 📁 Basics | Variables, Data Types, Operators, I/O |
-| 📁 Control Flow | if/else, loops, comprehensions |
-| 📁 Functions | args, kwargs, lambda, recursion |
-| 📁 Data Structures | Lists, Tuples, Dicts, Sets |
-| 📁 OOP | Classes, Inheritance, Polymorphism |
-| 📁 File Handling | Read/Write, Exception Handling |
-| 📁 Modules | Built-ins, Custom Packages |
-| 📁 Advanced | Decorators, Generators, Iterators |
-
-[![View Project](https://img.shields.io/badge/📂_View_Project-Core_Python-3776AB?style=flat-square&logo=python)](https://github.com/Aditya152602/Core-Python-)
-
----
-
-<br/>
-
-### ☕ Java
-
----
-
-#### 🏛️ [Core Java Programs](https://github.com/Aditya152602/JAVA)
-
-> *A structured Java repository covering everything from basic syntax to advanced multithreading and generics*
-
-```
-Tech Stack  →  Java 17+ (Pure — no Maven/Gradle needed)
-Coverage    →  9 modules · OOP, Collections, Java 8+, Threads
-Level       →  Beginner → Advanced
-```
-
-| Module | Topics Covered |
-|--------|---------------|
-| 📁 Basics | JVM, JDK, Variables, Type Casting |
-| 📁 OOP Core | Classes, Constructors, `this` keyword |
-| 📁 OOP Pillars | Inheritance, Polymorphism, Abstraction, Encapsulation |
-| 📁 Collections | ArrayList, HashMap, HashSet, LinkedList |
-| 📁 Java 8+ | Lambda, Stream API, Optional, Method References |
-| 📁 Advanced | Multithreading, Generics, File I/O |
-
-[![View Project](https://img.shields.io/badge/📂_View_Project-Core_Java-orange?style=flat-square&logo=openjdk)](https://github.com/Aditya152602/JAVA)
-
----
-
-<br/>
-
-### 🌐 Web Development
-
----
-
-#### 🎨 [Personal Portfolio Website](https://github.com/Aditya152602/Portfolio)
-
-> *A sleek, fully responsive, single-page personal portfolio crafted from scratch to showcase skills, projects, and personality*
-
-```
-Tech Stack  →  HTML5 · CSS3 · Vanilla JavaScript · GitHub Pages
-Design      →  Responsive · Animated · Dark Theme · Single Page
-Performance →  95+ Lighthouse Score · < 500KB · < 0.8s First Paint
-Deployment  →  GitHub Pages (Live & Always Online)
-```
-
-| Feature | Detail |
-|---------|--------|
-| 📱 Responsive | Mobile → Tablet → Laptop → Desktop |
-| ✨ Animations | Scroll-triggered reveals, typing effect, hover states |
-| 📬 Contact Form | Functional email form |
-| 🔗 Project Showcases | Live links + GitHub for each project |
-| 🏅 Lighthouse 95+ | Performance, Accessibility, SEO, Best Practices |
-
-[![View Project](https://img.shields.io/badge/📂_View_Project-Portfolio-ff6b6b?style=flat-square&logo=vercel)](https://github.com/Aditya152602/Portfolio)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-22c55e?style=flat-square)](https://aditya152602.github.io/Portfolio)
-
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya152602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya152602&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya152602&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🛠️ My Tech Stack
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        TECHNOLOGY STACK                              ║
-╠══════════════════╦═══════════════════════════════════════════════════╣
-║  Languages       ║  Python · Java · HTML · CSS · JavaScript         ║
-╠══════════════════╬═══════════════════════════════════════════════════╣
-║  ML / DS         ║  Scikit-Learn · XGBoost · Pandas · NumPy         ║
-║                  ║  Matplotlib · Seaborn · Jupyter Notebook          ║
-╠══════════════════╬═══════════════════════════════════════════════════╣
-║  Web Dev         ║  HTML5 · CSS3 · JavaScript · GitHub Pages        ║
-╠══════════════════╬═══════════════════════════════════════════════════╣
-║  Tools           ║  Git · GitHub · VS Code · Jupyter · IntelliJ     ║
-╠══════════════════╬═══════════════════════════════════════════════════╣
-║  Core CS         ║  OOP · Data Structures · Algorithms · DBMS       ║
-╚══════════════════╩═══════════════════════════════════════════════════╝
-```
-
----
-
-## 🧭 All Repositories at a Glance
-
-| Repository | Domain | Tech | Status |
-|------------|--------|------|--------|
-| [🏡 Advanced-House-Price-Prediction](https://github.com/Aditya152602/Advanced-House-Price-Prediction) | Machine Learning | Python, XGBoost | ✅ Complete |
-| [🐍 Core-Python-](https://github.com/Aditya152602/Core-Python-) | Python Programming | Python 3.x | 🔄 Ongoing |
-| [☕ JAVA](https://github.com/Aditya152602/JAVA) | Java Programming | Java 17+ | 🔄 Ongoing |
-| [🌐 Portfolio](https://github.com/Aditya152602/Portfolio) | Web Development | HTML, CSS, JS | ✅ Live |
-| [📁 Projects](https://github.com/Aditya152602/Projects) | Hub / Index | All Stacks | 🔄 Always Updated |
-
----
-
-## 🎯 What I'm Working On
 
 ```python
-current_focus = {
-    "learning"  : ["Deep Learning", "Flask/Django", "SQL & Databases"],
-    "building"  : ["New ML Projects", "Full-Stack Web Apps"],
-    "improving" : ["DSA for Interviews", "System Design Basics"],
-    "goal_2025" : "Land a role in ML Engineering or Software Development 🚀"
-}
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class Aditya:
+
+    def __init__(self):
+        self.name          = "Aditya"
+        self.location      = "India 🇮🇳"
+        self.role          = "Developer & ML Engineer"
+        self.languages     = ["Python 🐍", "Java ☕", "HTML/CSS 🌐", "JavaScript ✨"]
+        self.ml_toolkit    = ["Scikit-Learn", "XGBoost", "Pandas", "NumPy", "Matplotlib"]
+        self.domains       = ["Machine Learning", "Data Science", "Web Development", "OOP"]
+        self.tools         = ["VS Code", "IntelliJ", "Jupyter", "Git", "GitHub"]
+        self.currently     = "Building ML models & sharpening DSA skills 💪"
+        self.goal          = "Land a role in ML Engineering or Software Development 🎯"
+        self.fun_fact      = "I debug with print() and I'm not ashamed 😄"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Explore my work below ⬇️")
+
+me = Aditya()
+me.say_hi()
 ```
 
 ---
-
-## 📈 Contribution Graph
-
-> Every green square is a step closer to mastery.
-
-```
-Jan  ░░▓▓░▓▓▓░░▓▓▓▓░░▓░▓▓░░░▓▓▓░░▓▓░▓░░░▓▓▓▓
-Feb  ▓▓░░▓▓░░▓▓▓░▓▓░░▓▓▓░░▓░░▓▓▓▓░░▓▓░▓▓░░▓▓░
-Mar  ░▓▓▓░░▓▓░▓░▓▓▓░▓▓░░▓▓▓░░▓░▓▓▓▓░░▓▓░░▓▓▓░
-     ▓ = Committed   ░ = Resting   Keep pushing! 💪
-```
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to:
-
-- 🤖 **ML/AI projects** — especially prediction, classification, NLP
-- 🌐 **Web development** — frontend, portfolio, landing pages
-- 🐍 **Python scripting** — automation, data analysis, APIs
-- ☕ **Java applications** — OOP-based systems and CLI tools
-- 📚 **Open source contributions** — learning in public
-
----
-
-## 📬 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya152602-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya152602)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya152602.github.io/Portfolio)
+## 〔 TECH ARSENAL 〕
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Machine Learning & Data**
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
 ---
 
-## ⭐ Support My Work
+<div align="center">
 
-If any of my projects helped you — learn something, build something, or crack an interview —
-please consider giving this repo (and the individual projects) a **⭐ star**.
+## 〔 PROJECT SHOWCASE 〕
 
-It takes 2 seconds. It means everything. It helps others find the work. 🙏
+*Click any project card to explore*
+
+</div>
+
+---
+
+### 🏡 Advanced House Price Prediction
+#### `Machine Learning` `Regression` `Ensemble` `Kaggle`
+
+> *End-to-end ML pipeline that predicts residential property prices using 79 features from the Ames Housing Dataset — achieving top performance through stacked ensemble modeling.*
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 What I Built**
+- Complete EDA with correlation heatmaps & distribution plots
+- Advanced feature engineering (log-transform, TotalSF, temporal features)
+- Trained & compared **8 different models**
+- Built a **Stacked Ensemble** (5 base learners + Lasso meta-learner)
+- Generated Kaggle-ready `submission.csv`
+
+</td>
+<td width="50%">
+
+**📊 Performance Results**
+
+| Model | RMSLE Score |
+|-------|------------|
+| Linear Regression | ~0.185 |
+| Ridge / Lasso | ~0.163 |
+| XGBoost | ~0.150 |
+| **Stacked Ensemble** | **~0.118 🏆** |
+
+</td>
+</tr>
+</table>
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+[![View Repo →](https://img.shields.io/badge/%F0%9F%93%82_View_Full_Project-Advanced_House_Price_Prediction-0f172a?style=for-the-badge)](https://github.com/Aditya152602/Advanced-House-Price-Prediction)
+
+---
+
+### 🐍 Core Python Mastery
+#### `Python` `OOP` `DSA` `Fundamentals`
+
+> *A deep-dive reference library of 80+ Python concepts — meticulously organized from beginner basics to advanced patterns like decorators, generators, and iterators.*
+
+<table>
+<tr>
+<td width="50%">
+
+**📚 Modules Covered**
+
+```
+01 ▸ Basics & Data Types
+02 ▸ Control Flow & Loops
+03 ▸ Functions & Recursion
+04 ▸ Data Structures
+05 ▸ OOP (4 Pillars)
+06 ▸ File Handling & Exceptions
+07 ▸ Modules & Packages
+08 ▸ Advanced Patterns
+```
+
+</td>
+<td width="50%">
+
+**🌟 Highlights**
+- 80+ standalone `.py` scripts
+- Every concept has working examples
+- Clean, well-commented code throughout
+- Covers interview-critical topics
+- Builds strong Pythonic intuition
+
+</td>
+</tr>
+</table>
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=flat&logo=python&logoColor=white)
+![No Dependencies](https://img.shields.io/badge/Zero_Dependencies-✓-22c55e?style=flat)
+
+[![View Repo →](https://img.shields.io/badge/%F0%9F%93%82_View_Full_Project-Core_Python_Mastery-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Aditya152602/Core-Python-)
+
+---
+
+### ☕ Core Java Programs
+#### `Java` `OOP` `Collections` `Java 8+`
+
+> *A structured Java learning repository covering the complete journey from "Hello World" to multithreading, generics, and Java 8 streams — all with clean, interview-ready code.*
+
+<table>
+<tr>
+<td width="50%">
+
+**📚 Modules Covered**
+
+```
+01 ▸ Java Syntax & JVM
+02 ▸ Control Flow
+03 ▸ Arrays & Strings
+04 ▸ OOP (Classes & Objects)
+05 ▸ Inheritance & Polymorphism
+06 ▸ Exception Handling
+07 ▸ Collections Framework
+08 ▸ Java 8 (Lambdas, Streams)
+09 ▸ Multithreading & Generics
+```
+
+</td>
+<td width="50%">
+
+**🌟 Highlights**
+- Every program compiles and runs standalone
+- No Maven/Gradle — pure `javac` + `java`
+- Covers most-asked Java interview topics
+- Deep OOP foundations for any framework
+- Strong Collections + Stream API coverage
+
+</td>
+</tr>
+</table>
+
+**Stack:**
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![No Dependencies](https://img.shields.io/badge/Zero_Dependencies-✓-22c55e?style=flat)
+
+[![View Repo →](https://img.shields.io/badge/%F0%9F%93%82_View_Full_Project-Core_Java_Programs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Aditya152602/JAVA)
+
+---
+
+### 🌐 Personal Portfolio Website
+#### `HTML` `CSS` `JavaScript` `Responsive Design`
+
+> *A pixel-perfect, fully responsive personal portfolio website — hand-coded from scratch with smooth animations, a functional contact form, and deployed live on GitHub Pages.*
+
+<table>
+<tr>
+<td width="50%">
+
+**🎨 Features**
+- Fully responsive (mobile → 4K)
+- Smooth scroll & sticky navbar
+- Typing animation on hero section
+- Scroll-triggered reveal animations
+- Functional contact form
+- Live project showcases with links
+
+</td>
+<td width="50%">
+
+**⚡ Performance**
+
+| Metric | Score |
+|--------|-------|
+| Performance | 95+ |
+| Accessibility | 98+ |
+| SEO | 100 |
+| Best Practices | 100 |
+| Page Size | < 500KB |
+
+</td>
+</tr>
+</table>
+
+**Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat&logo=github&logoColor=white)
+
+[![View Repo →](https://img.shields.io/badge/%F0%9F%93%82_View_Full_Project-Portfolio_Website-E34F26?style=for-the-badge)](https://github.com/Aditya152602/Portfolio)
+[![🌐 Live Site](https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-Visit_Now-22c55e?style=for-the-badge)](https://aditya152602.github.io/Portfolio)
 
 ---
 
 <div align="center">
 
+## 〔 GITHUB STATS 〕
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya152602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya152602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aditya152602&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya152602&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 〔 SKILLS PROFICIENCY 〕
+
+</div>
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     "First, solve the problem.                           ║
-║      Then, write the code."  — John Johnson              ║
-║                                                          ║
-║     Built with  ❤️  |  Powered by  ☕  &  🐍             ║
-║     India 🇮🇳  |  © 2025 Aditya  |  MIT License          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+Python          ████████████████████░   90%  ⭐⭐⭐⭐⭐
+Java            ████████████████░░░░░   75%  ⭐⭐⭐⭐
+Machine Learning████████████████░░░░░   75%  ⭐⭐⭐⭐
+HTML / CSS      ████████████████████░   85%  ⭐⭐⭐⭐⭐
+JavaScript      ████████████░░░░░░░░░   60%  ⭐⭐⭐
+Data Analysis   █████████████████░░░░   80%  ⭐⭐⭐⭐
+Git & GitHub    ████████████████████░   85%  ⭐⭐⭐⭐⭐
+Problem Solving ████████████████████░   90%  ⭐⭐⭐⭐⭐
 ```
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Aditya152602.Projects)
+---
+
+<div align="center">
+
+## 〔 ROADMAP & GOALS 〕
+
+</div>
+
+```
+                        ADITYA'S 2025 ROADMAP
+                        ─────────────────────
+
+  Q1 2025                 Q2 2025                Q3 2025              Q4 2025
+  ─────────               ─────────              ─────────            ─────────
+  ✅ Python Mastery       🔄 Deep Learning       📌 Full-Stack Dev    🎯 Dream Job
+  ✅ Java OOP             🔄 Flask / Django       📌 System Design     🎯 Open Source
+  ✅ ML Regression        🔄 SQL & Databases      📌 DSA Mastery       🎯 Internship
+  ✅ Portfolio Live       🔄 REST APIs            📌 LeetCode 150+     🎯 Certifications
+```
+
+---
+
+<div align="center">
+
+## 〔 QUICK LINKS 〕
+
+| 🔗 Repository | 🏷️ Domain | 💻 Tech | 🚦 Status |
+|:---|:---|:---|:---|
+| [🏡 Advanced House Price Prediction](https://github.com/Aditya152602/Advanced-House-Price-Prediction) | Machine Learning | Python · XGBoost · Sklearn | ✅ Complete |
+| [🐍 Core Python Mastery](https://github.com/Aditya152602/Core-Python-) | Python Programming | Python 3.x | 🔄 Ongoing |
+| [☕ Core Java Programs](https://github.com/Aditya152602/JAVA) | Java Programming | Java 17+ | 🔄 Ongoing |
+| [🌐 Portfolio Website](https://github.com/Aditya152602/Portfolio) | Web Dev | HTML · CSS · JS | ✅ Live |
+| [📁 Projects Hub](https://github.com/Aditya152602/Projects) | Master Index | All Stacks | ♾️ Always Updated |
+
+</div>
+
+---
+
+<div align="center">
+
+## 〔 CONNECT WITH ME 〕
+
+<br/>
+
+<a href="https://github.com/Aditya152602">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://aditya152602.github.io/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<br/><br/>
+
+---
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+found+this+useful&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
