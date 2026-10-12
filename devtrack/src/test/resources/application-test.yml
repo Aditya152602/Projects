@@ -1,0 +1,10 @@
+# Loaded only when a test uses @ActiveProfiles("test").
+# Datasource url/user/password are NOT here: IntegrationTestBase injects them from the Testcontainers MySQL.
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop        # fresh schema in the throwaway MySQL for each test run
+app:
+  admin:
+    email: ""                      # no startup admin seeding in tests
+    password: ""

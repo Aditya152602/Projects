@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: devtrack
+  datasource:
+    # Every value reads an env var first, falls back to local-dev default after the colon
+    url: ${DB_URL:jdbc:mysql://localhost:3306/devtrack?createDatabaseIfNotExist=true&serverTimezone=UTC}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:root}
+  jpa:
+    hibernate:
+      ddl-auto: update        # Hibernate creates/updates tables. For real prod use Flyway + "validate"
+    open-in-view: false       # no DB session during JSON rendering -> map to DTOs inside @Transactional
+    properties:
+      hibernate:
+        format_sql: true
+  data:
+    web:
+      pageable:
+        default-page-size: 10
+        max-page-size: 50     # stop clients asking for size=100000
+
+server:
+  port: 8080
+
+app:
+  jwt:
+    # Base64 secret, must decode to >= 32 bytes for HS256. Default is DEV ONLY -> override JWT_SECRET in prod
+    secret: ${JWT_SECRET:ZGV2dHJhY2stZGV2LW9ubHktc2VjcmV0LWtleS1jaGFuZ2UtbWUtMTIzNDU2Nzg5MA==}
+    expiration-ms: ${JWT_EXPIRATION_MS:3600000}   # 1 hour
+  admin:
+    # If both set, an ADMIN user is created at startup (if missing)
+    email: ${ADMIN_EMAIL:}
+    password: ${ADMIN_PASSWORD:}
